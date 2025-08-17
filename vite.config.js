@@ -5,5 +5,5 @@ import Clock from './src/components/Clock';
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/Digital-Clock",
+  base: "/Digital-Clock_2.0",
 })
